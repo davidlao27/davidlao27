@@ -1,8 +1,6 @@
-Hello, I’m @davidlao27
-I’m currently mainly interested in website development and discord.js
-I’m not looking to collaborate with ANYONE. I rarely collaborate.
-Reach me @ discord.com! (davidlao#6968)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlao27)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+Hello! I develop websites and stuff.
 <!---
 davidlao27/davidlao27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
